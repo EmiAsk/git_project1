@@ -3,7 +3,6 @@ def main():
     print('And I change it every day')
     print('third print')
     print('edited by the stranger')
-    print(1)
 
 
 if __name__ == '__main__':
