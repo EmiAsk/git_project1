@@ -1,8 +1,5 @@
 def main():
-    print('My first git program')
-    print('And I change it every day')
-    print('third print')
-    print('edited by the stranger')
+    print('firstBranch')
 
 
 if __name__ == '__main__':
